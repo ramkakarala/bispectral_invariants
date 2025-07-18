@@ -4,7 +4,7 @@ function R = irrep1(p)
 % for permutation p, which is in "target" notation, i.e., the permutation
 % is i -> p(i);  
 % If you do use this code please cite the accompanying paper
-% R Kakarala, "On a simplified Fourier transform for permutations"
+% R Kakarala, "On the Fourier transform for a symmetric group homogeneous space"
 % http://arxiv.org/abs/0903.5129
 
 n = length(p);
